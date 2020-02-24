@@ -81,6 +81,7 @@
 
 - 社外からのサービスまたは物品の購入
 - 社内他部門からのサービスまたは物品の購入（内部取引）
+- 従業員給与
 - [手当制度](https://github.com/imejin-dev/constitution/blob/master/laws/other-pay.md)を利用した従業員への報酬の支払い
 
 #### 原価支出
