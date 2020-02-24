@@ -139,7 +139,7 @@
 
 - 部門の外部売上は、[案件コード表](https://docs.google.com/spreadsheets/d/1hGgwGYju-v66kTdSs0I7QhdhsG--LOBOPVLGDvkLYvA/edit#gid=1667198322)に記載すること
 - 部門の外部支出は[発注表](https://docs.google.com/spreadsheets/d/1hGgwGYju-v66kTdSs0I7QhdhsG--LOBOPVLGDvkLYvA/edit#gid=358587667)に記載すること
-- 内部案件については、[内部案件コード表](https://docs.google.com/spreadsheets/d/1ekUd6kyroBugG1Klgk0K0V74fdqZoaZTm3oHEVvmDx0/edit#gid=0)に記載すること
+- 内部取引については、[内部案件コード表](https://docs.google.com/spreadsheets/d/1ekUd6kyroBugG1Klgk0K0V74fdqZoaZTm3oHEVvmDx0/edit#gid=0)に記載すること
 - 物品購入を行った場合については原則[備品管理表](https://docs.google.com/spreadsheets/d/1tH_2lKWbOK1uZIz5MNWQuSxbLyFexd3FVhJznndP--U/edit#gid=0)に記載すること
 
 その他必要な帳票への記入がないか留意して集計漏れがないようにすること（詳細ルールは策定中）
